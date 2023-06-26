@@ -1,0 +1,26 @@
+body {
+    background: rgb(29, 29, 49);
+    font: normal 15pt Consolas;
+    
+}
+
+header {
+    text-align: center;
+    color: whitesmoke;
+}
+
+section {
+    background: whitesmoke;
+    border-radius: 20px;
+    height: 200px;
+    width: 400px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+}
+
+footer {
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+}

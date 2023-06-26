@@ -1,0 +1,39 @@
+body {
+    background: rgb(50, 128, 207);
+    font: normal 15px Arial;
+    
+}
+
+header {
+    text-align: center;
+    color: whitesmoke;
+}
+
+section {
+    background: whitesmoke;
+    border-radius: 20px;
+    width: 400px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.288);
+}
+
+footer {
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+}
+
+#btnContar {
+    background-color: rgb(50, 128, 207);
+    border: none;
+    border-radius: 20px;
+    padding:5px 20px;
+    color: whitesmoke;
+    transition: background-color 0.3s ease;
+    font-size: 14px;
+}
+
+#btnContar:hover {
+    background-color: rgb(42, 107, 172);
+}

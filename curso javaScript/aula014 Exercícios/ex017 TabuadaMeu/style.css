@@ -1,0 +1,14 @@
+body {
+    background: rgb(46, 36, 62);
+}
+h1 {
+    color: rgb(255, 60, 213);
+    text-align: center;
+}
+section {
+    background-color: whitesmoke;
+    width: 80%;
+    border-radius: 20px;
+    margin: auto;
+    padding: 20px;
+}

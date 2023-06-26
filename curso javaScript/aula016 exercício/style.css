@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(58, 40, 83);
+    font-family: Consolas;
+}
+
+h2 {
+    color:whitesmoke;
+    text-align:center;
+}
+
+section {
+    margin: auto;
+    background: rgb(141, 101, 197);
+    color: whitesmoke;
+    padding: 20px;
+    width:90%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px rgb(31, 31, 31);
+}
+
+footer {
+    color:whitesmoke;
+    text-align:center;
+}
+
+.button {
+    background-color: rgb(58, 40, 83);
+    font-family: Consolas;
+    color: whitesmoke;
+    border-style: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: ease 0.3s;
+    margin: 10px;
+}
+select {
+    width: 200px;
+    border-radius:5px;
+    border-style: none;
+    padding: 5px;
+}
+
+#txtn {
+    width: 100px;
+    border-radius:5px;
+    border-style: none;
+    padding: 5px;
+}
+
+.button:hover {
+    background-color: rgb(41, 28, 58);
+
+}

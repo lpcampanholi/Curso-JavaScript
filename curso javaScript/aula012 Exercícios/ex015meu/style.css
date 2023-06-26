@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(52, 81, 145);
+    font: normal 16px Arial;
+}
+section {
+    background: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.26);
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+#btnverificar {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(52, 81, 145);
+    color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+#btnverificar:hover {
+    background-color: rgb(43, 68, 122);
+}
